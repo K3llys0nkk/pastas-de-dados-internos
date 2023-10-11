@@ -15,7 +15,7 @@ function Header() {
               <a href='#' target='_blank'>Dados e Prontuários</a>
             </div>
 
-            <div className='wrap-shortcuts-navbar'>
+            <div className='wrap-shortcuts-navbar'> 
               <a href='#' className='shortcut'>
                 VOLTAR
               </a>

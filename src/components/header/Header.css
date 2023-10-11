@@ -37,10 +37,12 @@ a {
 
 .titulo a {
     text-align: center;
-    font-size: 29px;
+    font-size: 34px;
     font-weight: 720;
     flex-grow: 1; 
     text-decoration: underline;
+    position: relative;
+    left: 130px;
 }
 
 .wrap-shortcuts-navbar {
@@ -51,6 +53,7 @@ a {
 .wrap-shortcuts-navbar a {
     margin-left: 20px; 
 }
+
 
 .logo {
     width: 50%;
