@@ -11,6 +11,7 @@ a {
 }
 
 .header {
+    padding-bottom: 10px;
     position: relative;
     display: flex;
     margin-bottom: -20px;
@@ -62,4 +63,3 @@ a {
     font-weight: 540;
     font-size: 18px;
 }
-
