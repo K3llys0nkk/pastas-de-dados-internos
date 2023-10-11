@@ -116,28 +116,28 @@ const MinhasPastas = () => {
                     <div className="p-folder">
                         <img src={folder} alt="Ícone de Pasta" />
                         <p>Nome: </p>
-                        <p>Igor Castro</p> 
+                        <p>Marcela Luiza</p> 
                         <p className='p-cpf'>CPF:</p>
                         <p>XXX.XXX.XXX-XX</p> 
                     </div>
                     <div className="p-folder">
                         <img src={folder} alt="Ícone de Pasta" />
                         <p>Nome: </p>
-                        <p>João Gomes</p> 
+                        <p>Neymar Junior</p> 
                         <p className='p-cpf'>CPF:</p>
                         <p>XXX.XXX.XXX-XX</p> 
                     </div>
                     <div className="p-folder">
                         <img src={folder} alt="Ícone de Pasta" />
                         <p>Nome: </p>
-                        <p>Kellyson B</p> 
+                        <p>Olavo de Carvalho</p> 
                         <p className='p-cpf'>CPF:</p>
                         <p>XXX.XXX.XXX-XX</p> 
                     </div>
                     <div className="p-folder">
                         <img src={folder} alt="Ícone de Pasta" />
                         <p>Nome: </p>
-                        <p>Luccas Neto</p> 
+                        <p>Paulo Cesar</p> 
                         <p className='p-cpf'>CPF:</p>
                         <p>XXX.XXX.XXX-XX</p> 
                     </div>
